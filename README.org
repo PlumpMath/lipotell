@@ -1,0 +1,4 @@
+#+TITLE: lipotell
+
+This script discovers which files and directories are causing bloat in your
+filesystem.
